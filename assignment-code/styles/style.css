@@ -22,6 +22,13 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    
+}
+
+.logo-navbar{
+    font-size: 24px;
+    font-weight: bold;
+    
 }
 
 .text-navbar {
@@ -175,9 +182,12 @@ body {
 .second-container {
     display: flex;
     align-items: center;
-    gap: 80px;
-    margin: 80px auto;
+    gap: 40px;
+    padding: 100px;
+    margin: 60px auto;
+    max-width: 1600px;
 }
+
 
 .green-title {
     color: #22C55E;
