@@ -119,6 +119,9 @@ body {
     color:#469165;
     text-decoration: none;
 }
+.banner-text span{
+    color:#469165;
+}
 
 .banner-text h2 {
     font-size: 52px;
